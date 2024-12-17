@@ -41,4 +41,4 @@ v2.0 - レスポンスにtitleを追加。
 
 v1.0 - 初期バージョン
 
-**Powerd By island_dev**
+**Powerd By xxtomm**
